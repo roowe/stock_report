@@ -1,36 +1,68 @@
-# stock_report
+## 20190726周报
+### A股
+#### 大盘
+- 上证50(000016.SH)
+    - 本周收盘为2939.3547
+    - 涨幅为1.51%
+    - 周BBI点位2875.218(2.23%)
+- 沪深300(000300.SH)
+    - 本周收盘为3858.5688
+    - 涨幅为1.33%
+    - 周BBI点位3793.297(1.72%)
+- 深证成指(399001.SZ)
+    - 本周收盘为9349.002
+    - 涨幅为1.31%
+    - 周BBI点位9237.203(1.21%)
+- 上证指数(000001.SH)
+    - 本周收盘为2944.541
+    - 涨幅为0.7%
+    - 周BBI点位2951.245(-0.23%)
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+#### 中小盘
+- 创业板指(399006.SZ)
+    - 本周收盘为1561.855
+    - 涨幅为1.29%
+    - 周BBI点位1535.386(1.72%)
+- 中证500(000905.SH)
+    - 本周收盘为4898.1099
+    - 涨幅为0.4%
+    - 周BBI点位4964.74(-1.34%)
+- 中证1000(000852.SH)
+    - 本周收盘为5216.6018
+    - 涨幅为-0.07%
+    - 周BBI点位5324.086(-2.02%)
+#### 行业
+- 养老产业(399812.SZ)
+    - 本周收盘为6971.904
+    - 涨幅为1.62%
+    - 周BBI点位6983.092(-0.16%)
+- 全指医药(000991.SH)
+    - 本周收盘为8952.5784
+    - 涨幅为1.0%
+    - 周BBI点位8945.518(0.08%)
+- 中证环保(000827.SH)
+    - 本周收盘为1183.5386
+    - 涨幅为0.67%
+    - 周BBI点位1206.513(-1.9%)
+- 全指金融(000992.SH)
+    - 本周收盘为6067.681
+    - 涨幅为0.48%
+    - 周BBI点位5995.942(1.2%)
+- 中证传媒(399971.SZ)
+    - 本周收盘为1183.592
+    - 涨幅为0.16%
+    - 周BBI点位1225.183(-3.39%)
+- 全指消费(000990.SH)
+    - 本周收盘为13728.8703
+    - 涨幅为-0.41%
+    - 周BBI点位13423.231(2.28%)
+- 证券公司(399975.SZ)
+    - 本周收盘为742.527
+    - 涨幅为-1.13%
+    - 周BBI点位741.524(0.14%)
 
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### Instructions
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### Contribution
-
-1. Fork the repository
-2. Create Feat_xxx branch
-3. Commit your code
-4. Create Pull Request
-
-
-#### Gitee Feature
-
-1. You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2. Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3. Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4. The most valuable open source project [GVP](https://gitee.com/gvp)
-5. The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6. The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 价值
+- 中证红利(000922.SH)
+    - 本周收盘为4361.7969
+    - 涨幅为0.12%
+    - 周BBI点位4361.797(-0.0%)
